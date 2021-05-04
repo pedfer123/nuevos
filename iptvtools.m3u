@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Capital TV
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/f3JMNQ5VkadQ9RKEAfor0GqT215e5bN6HEi8Zzf5bvKbrP_PMZ0b2IgYjX0tJDCofAgc=s180" group-title="HONDURAS", VICTORY CHANNEL
+http://hls1.livestreamingcdn.com/livecdn780/myStream.sdp/playlist.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:Digital TV (Peru)
+http://uvodscp-lh.akamaihd.net:80/i/ped001rtmp_1@460473/master.m3u8
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
